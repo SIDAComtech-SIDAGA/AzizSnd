@@ -1,0 +1,26 @@
+body{
+    background-image: url(images\ \(12\).jpeg);
+background-size: cover;
+    background-repeat: no-repeat;
+    font-size: x-large;
+
+  
+
+  }
+  p{
+    color:black;
+    font-size: xx-large;
+    font-weight: 1000;
+  }
+  h2{
+    color:rgb(13, 13, 202);
+      margin-left: 9cm;
+      margin-right: 17cm;
+      padding-bottom: 5mm;
+      padding-left: 3cm;
+    
+  }
+  .myButton{
+    background-color: #1176e9;
+    font-size: small;color: black;
+  }  

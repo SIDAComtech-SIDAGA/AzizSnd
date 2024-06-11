@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(235, 225, 225);
+    margin: 0;
+    padding: 0;
+    
+    }
+    h2{
+      margin-left: 2cm;
+      background-color: rgb(44, 47, 236);
+      color:white;
+      font-weight: 900;
+      margin-right: 10cm;
+      margin-left: 1cm;
+      margin-top: 2cm;
+      background-size: cover;
+      background-repeat: no-repeat;
+      text-align: center;
+      padding-bottom: 1.5cm;
+      padding: 30px;
+    }
+ 
+  
+  h1 {
+    margin-left: 2cm;
+      background-color: rgb(44, 47, 236);
+      color:white;
+      font-weight: 900;
+      margin-right: 10cm;
+      margin-left: 4cm;
+      margin-top: 2cm;
+      background-size: cover;
+      background-repeat: no-repeat;
+      text-align: center;
+      padding-bottom: 1.5cm;
+      padding: 30px;
+  }
+  p,h2,h3 {
+    background-color: gray;
+   border: 3mm; 
+   color: black;
+   margin-right: 4cm;
+   font-size: x-large;
+   margin-left: 2cm;
+   text-align: center;
+   background-position:center ;
+  }
+  li{
+    margin-left: 2cm;
+    font-size: larger;
+    
+    margin-right:15cm ;
+  }
+  .image-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+  padding: 10px;
+}
+
+/* Style for the images */
+.image-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+  .myButton{
+    background-color: #f54cb4;
+    font-size: larger;color: black;
+  }
